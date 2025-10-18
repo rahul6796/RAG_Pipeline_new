@@ -1,0 +1,1 @@
+Python is often preferred over other languages for data science due to its rich ecosystem of libraries like NumPy, pandas, and scikit-learn.
